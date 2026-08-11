@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+test_file.txt
+integrity_test.txt
+baseline_test.txt
+baseline.txt
